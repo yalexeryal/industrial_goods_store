@@ -1,0 +1,1 @@
+# industrial_goods_store
